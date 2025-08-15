@@ -8,7 +8,6 @@ It is designed for **simulation** and **FPGA prototyping**, with a focus on perf
 
 ## 🚀 Features
 - **ISA Support**
-  - RV32V / RV64V configurable
   - Supports key RVV instructions: arithmetic, load/store, mask operations, reductions, permutations
   - Vector register file (`v0`–`v31`) with configurable `VLEN`
 - **Pipeline Integration**
