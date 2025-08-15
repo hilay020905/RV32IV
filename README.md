@@ -1,7 +1,7 @@
 # RISC-V Vector Extension (RVV) Project
 
 ## 📌 Overview
-This project implements the **RISC-V Vector Extension (RVV)** architecture in **Verilog/SystemVerilog**, enabling hardware-level support for vector operations compliant with the RISC-V specification (RVV 1.0).  
+This project implements the **RISC-V Vector Extension (RVV)** architecture in **Verilog**, enabling hardware-level support for vector operations compliant with the RISC-V specification (RVV 1.0).  
 It is designed for **simulation** and **FPGA prototyping**, with a focus on performance, scalability, and verification.
 
 ---
