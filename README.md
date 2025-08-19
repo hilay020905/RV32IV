@@ -9,6 +9,8 @@ Simulation is verified with **Icarus Verilog (iverilog)**, and synthesis can be 
 
 ---
 ## Architecture planning
+![Pipeline Diagram](IMAGES/FIG01.jpg)
+---
 ## 🛠️ Usage
 
 ### Prerequisites
