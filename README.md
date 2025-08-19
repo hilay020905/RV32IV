@@ -8,7 +8,7 @@ The project supports **RTL simulation**, **gate-level simulation** (functional),
 Simulation is verified with **Icarus Verilog (iverilog)**, and synthesis can be done with **Design Compiler**.
 
 ---
-
+## Architecture planning
 ## 🛠️ Usage
 
 ### Prerequisites
