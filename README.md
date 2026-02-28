@@ -17,8 +17,3 @@ Simulation is verified with **Icarus Verilog (iverilog)**, and synthesis can be 
 - **Icarus Verilog** (`iverilog` & `vvp`) – [Installation Guide](https://iverilog.fandom.com/wiki/Installation)
 - (Optional) **Design Compiler** for synthesis
 - (Optional) **APR flow** (Innovus/OpenROAD) for layout
-
-### Running RTL Simulation
-```bash
-iverilog -o cpu_sim testbench.v CPU.v
-vvp cpu_sim
